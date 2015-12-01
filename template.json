@@ -1,0 +1,16 @@
+{"eventos":
+  [
+  {
+    "nombre" : "",
+    "fecha" : "",
+    "horario" : "",
+    "ubicacion" : "",
+    "pago" : [ "$$$" "gratis"],
+    "link" : "",
+    "descripcion" : "",
+    "done" : ["si", "no"],
+    "opinion" : "",
+    "rol" : ["organizador", "disertante", "asistente", "ninguno" ]
+  },
+ ]
+}
